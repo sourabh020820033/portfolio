@@ -37,7 +37,16 @@ const Projects = () => {
       icon: <BookOpen size={32} />,
       tags: ['React', 'Dashboard', 'UI/UX', 'Progress Tracking'],
       color: 'from-orange-500 to-orange-600',
-       liveLink: '',
+       liveLink: 'https://learning-path-six.vercel.app',
+      codeLink: ''
+    },
+    {
+      title: 'Portfolio',
+      description: 'Personalized portfolio website showcasing my skills, projects, and experiences.',
+      icon: <BookOpen size={32} />,
+      tags: ['React', 'Dashboard', 'UI/UX', 'Progress Tracking'],
+      color: 'from-orange-500 to-orange-600',
+       liveLink: 'https://portfolio-psi-rose-d3cqzxwknf.vercel.app/',
       codeLink: ''
     }
   ];

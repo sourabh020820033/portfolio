@@ -23,7 +23,7 @@ const Footer = () => {
             </div>
             
             <div className="text-center text-gray-400">
-              <p>&copy; 2024 Sourabh Sahu. All rights reserved.</p>
+              <p>&copy; 2022 Sourabh Sahu. All rights reserved.</p>
             </div>
           </div>
           
