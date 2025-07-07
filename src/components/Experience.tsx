@@ -6,21 +6,21 @@ const Experience = () => {
     {
       title: 'Web Developer Intern',
       company: 'Technolitics India',
-      period: 'Recent',
+      period: 'Feb-2024 - Aug-2024',
       description: 'Web development using modern stacks, building responsive and user-friendly applications.',
       skills: ['React', 'Node.js', 'JavaScript', 'Web Development']
     },
     {
       title: 'SDE Intern',
       company: 'Bluestock',
-      period: 'Recent',
+      period: 'Oct-2024 - Apr-2025',
       description: 'Worked on software development and system design tasks, contributing to scalable solutions.',
       skills: ['Software Development', 'System Design', 'Problem Solving']
     },
     {
       title: 'Machine Learning Intern',
       company: 'Infynas Learning Solutions',
-      period: 'Recent',
+      period: 'May-2025 - Jun-2025',
       description: 'Developed and implemented ML models for real-world applications and data analysis.',
       skills: ['Python', 'Machine Learning', 'Data Analysis', 'Model Development']
     }
